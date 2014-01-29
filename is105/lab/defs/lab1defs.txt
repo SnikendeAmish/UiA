@@ -1,0 +1,10 @@
+mkdir : Oppretter en mappe i det directoriet du er i. eks. "mkdir kake" vil lage mappen kake i valgt dir.
+cd "" :(Change Directory) bytter mappe til det som står i """"
+ls : lister opp alle mapper og filer i mappen du er i.
+ls ­l : lister opp alle mapper og filer i mappen du er i med tilleggs informasjon.
+ls ­la : lister opp alle mapper og filer i mappen du er i med tilleggs informasjon og viser skjulte filer.
+pwd : sender deg tilbake "home" (den mappen du har som basismappe)
+forklar “pipes and redirection” : Kan brukes for å endre på kommandoer og/eller sette de i rekke (kan minne om makroer). Kan også benyttes for å tilføye tekst fra en tekstfil inn i et annet tekstdokument.
+grep : søker etter spesifike ord i en tekst fil (som ctrl+F i notepad, bare uten brukergrensesnittet) Kan spesifiserers med navn på fil og ord som skal søkes etter.
+cat : fyller hele skjermen med teksten i valgt tekstfil (Uten mellomrm eller noen form for formatering)
+less : viser en fil en skjermfull av gangen, tekstfilen vil bli mer oversiktig og du kan bla med "spacebar" or "b". Funker dårlig med word, pdf osv. 
